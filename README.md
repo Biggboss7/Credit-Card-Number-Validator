@@ -20,7 +20,7 @@ Program should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Biggboss7/Tip-Calculator/
+- Solution URL: https://github.com/Biggboss7/Credit-Card-Number-Validator
 
 ## My process
 
